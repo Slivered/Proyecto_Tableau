@@ -1,5 +1,5 @@
 # Movie or Book?, now made with Tableau
-![Sauron](Images/Eye.jpg)
+![Sauron](Images/Sauron.jpg)
 
 ## Introduction.
 ---
